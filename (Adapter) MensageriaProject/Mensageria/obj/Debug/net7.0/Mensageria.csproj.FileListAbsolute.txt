@@ -1,0 +1,15 @@
+E:\unifesp\PROJOO\Mensageria\bin\Debug\net7.0\Mensageria.exe
+E:\unifesp\PROJOO\Mensageria\bin\Debug\net7.0\Mensageria.deps.json
+E:\unifesp\PROJOO\Mensageria\bin\Debug\net7.0\Mensageria.runtimeconfig.json
+E:\unifesp\PROJOO\Mensageria\bin\Debug\net7.0\Mensageria.dll
+E:\unifesp\PROJOO\Mensageria\bin\Debug\net7.0\Mensageria.pdb
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.csproj.AssemblyReference.cache
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.GeneratedMSBuildEditorConfig.editorconfig
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.AssemblyInfoInputs.cache
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.AssemblyInfo.cs
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.csproj.CoreCompileInputs.cache
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.dll
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\refint\Mensageria.dll
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.pdb
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\Mensageria.genruntimeconfig.cache
+E:\unifesp\PROJOO\Mensageria\obj\Debug\net7.0\ref\Mensageria.dll

@@ -1,0 +1,8 @@
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\bin\Debug\Congresso.exe.config
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\bin\Debug\Congresso.exe
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\bin\Debug\Congresso.pdb
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\obj\Debug\Congresso.csproj.AssemblyReference.cache
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\obj\Debug\Congresso.csproj.SuggestedBindingRedirects.cache
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\obj\Debug\Congresso.csproj.CoreCompileInputs.cache
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\obj\Debug\Congresso.exe
+E:\unifesp\PROJOO\(Composite) CongressoProject\Congresso\Congresso\obj\Debug\Congresso.pdb

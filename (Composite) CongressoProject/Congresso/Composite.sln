@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congresso", "Congresso\Congresso.csproj", "{ED0A84CD-6ABB-4128-A053-9034BDFD5993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jornal", "Jornal\Jornal.csproj", "{1A0602A1-66D2-4795-BFBA-B2834A59B533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0A84CD-6ABB-4128-A053-9034BDFD5993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0A84CD-6ABB-4128-A053-9034BDFD5993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0A84CD-6ABB-4128-A053-9034BDFD5993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0A84CD-6ABB-4128-A053-9034BDFD5993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0602A1-66D2-4795-BFBA-B2834A59B533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0602A1-66D2-4795-BFBA-B2834A59B533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0602A1-66D2-4795-BFBA-B2834A59B533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0602A1-66D2-4795-BFBA-B2834A59B533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EC91E4-C609-4D3B-941B-638EC7A6B2F0}
+	EndGlobalSection
+EndGlobal
