@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinicius\\Documents\\MyProjects\\PROJOO\\Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E52165CB-62BE-453F-9D61-47CBDA0D7BE6}|List\\List.csproj|c:\\users\\vinicius\\documents\\myprojects\\projoo\\bridge\\list\\list\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52165CB-62BE-453F-9D61-47CBDA0D7BE6}|List\\List.csproj|solutionrelative:list\\list\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52165CB-62BE-453F-9D61-47CBDA0D7BE6}|List\\List.csproj|c:\\users\\vinicius\\documents\\myprojects\\projoo\\bridge\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52165CB-62BE-453F-9D61-47CBDA0D7BE6}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\Documents\\MyProjects\\PROJOO\\Bridge\\List\\Program.cs",
+              "RelativeDocumentMoniker": "List\\Program.cs",
+              "ToolTip": "C:\\Users\\vinicius\\Documents\\MyProjects\\PROJOO\\Bridge\\List\\Program.cs",
+              "RelativeToolTip": "List\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:42:29.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\Documents\\MyProjects\\PROJOO\\Bridge\\List\\List\\List.cs",
+              "RelativeDocumentMoniker": "List\\List\\List.cs",
+              "ToolTip": "C:\\Users\\vinicius\\Documents\\MyProjects\\PROJOO\\Bridge\\List\\List\\List.cs",
+              "RelativeToolTip": "List\\List\\List.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:33:48.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

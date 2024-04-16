@@ -1,0 +1,7 @@
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\List\bin\Debug\List.exe.config
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\List\bin\Debug\List.exe
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\List\bin\Debug\List.pdb
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\List\obj\Debug\List.exe
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\List\obj\Debug\List.pdb

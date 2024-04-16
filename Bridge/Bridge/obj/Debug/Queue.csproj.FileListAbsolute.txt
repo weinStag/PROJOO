@@ -1,0 +1,7 @@
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\Bridge\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\Bridge\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\vinicius\Documents\MyProjects\PROJOO\Bridge\Bridge\obj\Debug\Bridge.pdb
