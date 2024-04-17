@@ -1,0 +1,8 @@
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\bin\Debug\FacadeSingleton.exe.config
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\bin\Debug\FacadeSingleton.exe
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\bin\Debug\FacadeSingleton.pdb
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\obj\Debug\FacadeSingleton.csproj.AssemblyReference.cache
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\obj\Debug\FacadeSingleton.csproj.SuggestedBindingRedirects.cache
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\obj\Debug\FacadeSingleton.csproj.CoreCompileInputs.cache
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\obj\Debug\FacadeSingleton.exe
+E:\unifesp\PROJOO\Singleton\FacadeSingleton\FacadeSingleton\obj\Debug\FacadeSingleton.pdb

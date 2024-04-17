@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Adapter",
+    "\\Singleton"
   ],
+  "SelectedNode": "\\Singleton",
   "PreviewInSolutionExplorer": false
 }
