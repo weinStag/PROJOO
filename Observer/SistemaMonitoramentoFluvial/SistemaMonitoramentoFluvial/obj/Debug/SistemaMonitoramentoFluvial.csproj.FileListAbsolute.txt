@@ -1,0 +1,8 @@
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\bin\Debug\SistemaMonitoramentoFluvial.exe.config
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\bin\Debug\SistemaMonitoramentoFluvial.exe
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\bin\Debug\SistemaMonitoramentoFluvial.pdb
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\obj\Debug\SistemaMonitoramentoFluvial.csproj.AssemblyReference.cache
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\obj\Debug\SistemaMonitoramentoFluvial.csproj.SuggestedBindingRedirects.cache
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\obj\Debug\SistemaMonitoramentoFluvial.csproj.CoreCompileInputs.cache
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\obj\Debug\SistemaMonitoramentoFluvial.exe
+E:\unifesp\PROJOO\Observer\SistemaMonitoramentoFluvial\SistemaMonitoramentoFluvial\obj\Debug\SistemaMonitoramentoFluvial.pdb
